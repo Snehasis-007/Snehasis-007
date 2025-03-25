@@ -1,43 +1,43 @@
-# Set up variables
-REPO_NAME="Snehasis-Batabyal"
-USERNAME="Snehasis-007"  # Your GitHub username
-GITHUB_URL="https://github.com/$USERNAME/$REPO_NAME.git"
+<h1 align="center">👋 Hey there, I'm Snehasis Batabyal</h1>
+<h3 align="center">Full-Stack Developer | Open-Source Enthusiast | Problem Solver</h3>
 
-# Create the repository on GitHub (Requires GitHub CLI)
-gh repo create "$REPO_NAME" --public --confirm
-
-# Clone the new repository
-git clone "$GITHUB_URL"
-cd "$REPO_NAME"
-
-# Create README.md with a more engaging and structured format
-cat <<EOL > README.md
-# Snehasis Batabyal 🚀
-### Code. Design. Explore. Repeat.  
-
-A normal guy who just loves to code. But give me a chance, and I'll step out to explore the world too.   
-Web dev, UI/UX, and C programming are my current playgrounds.  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Snehasis-007&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB, MySQL  
-- **UI/UX:** Figma, Adobe XD  
-- **Programming:** C, JavaScript  
-- **Tools:** Git, Docker, Postman  
+### 🚀 About Me  
+🔹 Passionate about *building scalable & efficient* applications.  
+🔹 Love *problem-solving, **open-source, and **collaborating* with tech enthusiasts.  
+🔹 Currently *diving deep* into *backend development & system design*.  
 
 ---
 
-## 🔗 Connect with Me  
-- **GitHub:** [github.com/Snehasis-007](https://github.com/Snehasis-007)  
-- **LinkedIn:** [linkedin.com/in/snehasisbatabyal](https://linkedin.com/in/snehasisbatabyal)  
-- **Twitter:** [twitter.com/snehasisbatabyal](https://twitter.com/snehasisbatabyal)  
+### 🛠 Tech Stack
+*Frontend:* React.js, Next.js, HTML, CSS, JavaScript  
+*Backend:* Node.js, Express.js  
+*Databases:* MongoDB, MySQL  
+*Tools:* Git, Docker, Postman  
+*Others:* GraphQL, REST APIs, Firebase  
 
-EOL
+---
 
-# Push everything to GitHub
-git add .
-git commit -m "Initial commit - Snehasis Batabyal 🚀"
-git push -u origin main
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehasis-007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehasis-007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+### 🌎 Let's Connect  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Snehasis-007)  
+[![X (Twitter)](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rahul2batabyal?s=21)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehasis-batabyal-032ab5223/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/snehasis.batabyal.16/)  
+
+---
+
+💡 *"Code. Learn. Repeat."* 🚀
