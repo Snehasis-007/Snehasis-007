@@ -1,9 +1,8 @@
-<h1 align="center">🚀 Snehasis Batabyal 🚀</h1>
-<h3 align="center">Full-Stack Developer | Open-Source Enthusiast | Problem Solver</h3>
+# 🚀 Snehasis Batabyal 🚀
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Snehasis-007&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak"/>
-</p>
+## Full-Stack Developer | Open-Source Enthusiast | Problem Solver
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Snehasis-007&theme=tokyonight_duo&hide_border=true)
 
 ---
 
@@ -52,4 +51,5 @@
 
 ---
 
-🔥 *"Code. Build. Dominate."* 🚀
+🔥 "Code. Build. Dominate." 🚀
+
