@@ -1,29 +1,28 @@
-<h1 align="center">👋 Hey there, I'm Snehasis Batabyal</h1>
+<h1 align="center">🚀 Snehasis Batabyal 🚀</h1>
 <h3 align="center">Full-Stack Developer | Open-Source Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Snehasis-007&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Snehasis-007&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🚀 About Me  
-🔹 Passionate about *building scalable & efficient* applications.  
-🔹 Love *problem-solving, **open-source, and **collaborating* with tech enthusiasts.  
-🔹 Currently *diving deep* into *backend development & system design*.  
+### 🛠 Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-### 🛠 Tech Stack
-*Frontend:* React.js, Next.js, HTML, CSS, JavaScript  
-*Backend:* Node.js, Express.js  
-*Databases:* MongoDB, MySQL  
-*Tools:* Git, Docker, Postman  
-*Others:* GraphQL, REST APIs, Firebase  
-
----
-
-### 📊 GitHub Stats  
+### ⚡ GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Snehasis-007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <br>
@@ -33,11 +32,21 @@
 ---
 
 ### 🌎 Let's Connect  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Snehasis-007)  
-[![X (Twitter)](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rahul2batabyal?s=21)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehasis-batabyal-032ab5223/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/snehasis.batabyal.16/)  
+<p align="center">
+  <a href="https://github.com/Snehasis-007">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/rahul2batabyal?s=21">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/snehasis-batabyal-032ab5223/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/snehasis.batabyal.16/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-💡 *"Code. Learn. Repeat."* 🚀
+🔥 *"Innovate. Build. Dominate."* 🚀
